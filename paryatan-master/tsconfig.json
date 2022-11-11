@@ -50,7 +50,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "src/components/main/index.js", "pages/index.js", "pages/login/index.js", "pages/signup/index.js", "src/components/banner/index.js", "src/components/cards/index.js", "src/components/container/index.js", "src/components/footer/index.js", "src/components/navbar/index.js", "src/components/stat/index.js", "src/components/index.js", "src/components/travel/index.js"  ],
   "exclude": [
     "node_modules"
   ]

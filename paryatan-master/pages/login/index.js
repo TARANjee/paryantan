@@ -1,7 +1,7 @@
 import { Navbar, Footer } from "@components";
 import Link from "next/link";
 
-const Login: React.FC = () => {
+const Login= () => {
     return (
         <div>
             <Navbar />

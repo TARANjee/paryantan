@@ -2,7 +2,7 @@ import React from "react";
 
 import data from "@public/meta.json";
 
-export const Cards: React.FC = (props) => {
+export const Cards= (props) => {
 
   return (
     <div className="flex-1 container my-8 max-w-screen-lg mx-auto p-5">

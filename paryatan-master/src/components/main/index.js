@@ -1,8 +1,7 @@
 import React from "react";
-import Image from "next/image";
 
 
-export const Main: React.FC = (props) => {
+export const Main = (props) => {
   console.log("Hello", props)
   return (
     <div className=" bg-no-repeat bg-cover " style={{ backgroundImage: `url('${props.height?'/images/rishikesh.jpg':'/images/hill-station.jpg'}')`, height: `${props.height ? `${props.height}px` : '360px'}` }}>

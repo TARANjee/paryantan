@@ -1,10 +1,8 @@
 import React from "react";
 
-import data from "@public/meta.json";
-
 import { Cards } from "..";
 
-export const Stat: React.FC = () => {
+export const Stat = () => {
 
   return (
     <div className="flex-1 w-screen ">

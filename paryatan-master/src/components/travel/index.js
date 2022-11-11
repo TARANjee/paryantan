@@ -1,9 +1,6 @@
 import React from "react";
-
-import data from "@public/meta.json";
-import Image from "next/image";
 import { Cards } from "..";
-export const Travel: React.FC = () => {
+export const Travel = () => {
   return (
     <div className="flex-1 container my-8 max-w-screen-lg mx-auto p-5">
       <div className="flex-1 justify-center items-center ">

@@ -1,7 +1,7 @@
 import { Navbar, Footer, Container, } from "@components";
 import Link from "next/link";
 
-const SignUp: React.FC = () => {
+const SignUp= () => {
     return (
         <Container>
             <Navbar />

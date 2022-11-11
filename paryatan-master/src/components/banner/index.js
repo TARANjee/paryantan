@@ -1,10 +1,8 @@
 import React from "react";
-
-import data from "@public/meta.json";
 import Image from "next/image";
 import { Main } from "..";
 
-export const Banner: React.FC = () => {
+export const Banner= () => {
 
   return (
     <div className="flex-1  ">
