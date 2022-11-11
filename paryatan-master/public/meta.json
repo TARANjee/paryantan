@@ -1,0 +1,47 @@
+{
+  "name": "paryatan",
+  "plugins": [
+    {
+      "name": "HILL STATION",
+      "img": "/images/hill-station.jpg",
+      "tourName":"130 Destination",
+      "tourImage":"/images/destination.jpg"
+    },
+    {
+      "name": "TREKKING",
+      "img": "/images/trekking.jpg",
+      "tourName":"1266 Hotels",
+      "tourImage":"/images/hotels.jpg"
+    },
+    {
+      "name": "CHAR DHAM",
+      "img": "/images/char-dham.jpg",
+      "tourName":"34 tour Packages",
+      "tourImage":"/images/tourpack.jpg"
+    },
+    {
+      "name": "SIT & RELAX",
+      "img": "/images/sit-relax.jpeg",
+      "tourName":"384 Attraction",
+      "tourImage":"/images/attraction.jpg"
+    }
+  ],
+  "tourism": [
+    {
+      "name": "130 Destination",
+      "img": "/images/destination.jpg"
+    },
+    {
+      "name": "1266 Hotels",
+      "img": "/images/hotels.jpg"
+    },
+    {
+      "name": "34 tour Packages",
+      "img": "/images/tourpack.jpg"
+    },
+    {
+      "name": "384 Attraction",
+      "img": "/images/attraction.jpg"
+    }
+  ]
+}
